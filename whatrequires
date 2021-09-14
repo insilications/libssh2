@@ -1,2 +1,5 @@
 # This file contains recursive sources that require this package
+libssh2-dev
 perl-Net-SSH2
+perl-Net-SSH2-dev
+perl-Net-SSH2-perl
